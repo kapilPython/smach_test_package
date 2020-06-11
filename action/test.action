@@ -1,0 +1,6 @@
+geometry_msgs/PoseStamped goal
+float64 chargingTime
+---
+string result
+---
+string feedback
